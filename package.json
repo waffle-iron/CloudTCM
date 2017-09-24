@@ -1,0 +1,22 @@
+{
+  "name": "cloud_tcm",
+  "version": "1.0.0",
+  "description": "A cloud system for TCM clinic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkerzheng/CloudTCM.git"
+  },
+  "author": "Xinyuan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkerzheng/CloudTCM/issues"
+  },
+  "homepage": "https://github.com/walkerzheng/CloudTCM#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
